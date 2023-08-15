@@ -1,4 +1,4 @@
 @Library('augustroboshop') _
 
-env.component="user"
+env.COMPONENT="user"
 nodejs()
